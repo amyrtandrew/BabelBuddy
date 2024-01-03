@@ -32,9 +32,9 @@ Have you ever used a language program to translate something only to forget it a
 * Axios
 
 ## How to Run **BabelBuddy** Locally
-**BabelBuddy** has not been deployed as a live application, so it has to be ran locally.
+**BabelBuddy** has not been deployed as a live application, so it has to be run locally.
 
-After downloading the GitHub repository and added it to a local directory, run the following terminal commands:
+After downloading the GitHub repository and adding it to a local directory, run the following terminal commands:
 * `npm i` or `npm install` *(Installs project dependencies)*
 * `npm run initdb` and `npm run seed` *(Creates and seeds the database)*
 * `npm run dev` *(Launches the application)*
